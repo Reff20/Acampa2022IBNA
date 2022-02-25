@@ -1,5 +1,11 @@
 # Acampa2022IBNA
 --
+## Como rodar:
+
+1- Instalar Python no PC
+2- Abrir o terminal (CMD/Git Bash/Terminator/Bash) na pasta
+3- Executar o comando: python index.py
+
 ### Senha: 82251207
 
 """ 
